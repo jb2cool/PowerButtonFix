@@ -12,3 +12,6 @@ sudo wget https://raw.githubusercontent.com/jb2cool/PowerButtonFix/main/lxde-app
 
 # Fix broken syntax in the policykit rules to make power buttons actually work
 sudo wget https://raw.githubusercontent.com/jb2cool/PowerButtonFix/main/00-power.rules -O /etc/polkit-1/rules.d/00-power.rules
+
+# Remove script
+rm retrofit.sh
