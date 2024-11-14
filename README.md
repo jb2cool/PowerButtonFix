@@ -14,5 +14,5 @@ We will:
 Simply download and run the retrofit.sh script. This should be as simple as:
 ```
 wget https://raw.githubusercontent.com/jb2cool/PowerButtonFix/main/retrofit.sh
-bash retrofit.sh
+sudo bash retrofit.sh
 ```
